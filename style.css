@@ -1,0 +1,47 @@
+html{
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    margin: 0 auto;
+}
+
+.container{
+    margin: auto;
+    width: 80%;
+}
+
+ul{
+    list-style-type:none;
+}
+
+li{
+    margin: 15px 0;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+
+    padding: 3px;
+
+    border: 2px solid;
+    border-color: rgb(157, 188, 247);
+    border-radius: 20px;
+}
+
+a:hover{
+    background-color: rgb(157, 188, 247);
+    transition: 0.25s;
+}
+
+hr{
+    border: 3px solid;
+    border-radius: 3px;
+    color: rgb(157, 188, 247);
+}
+
+h1{
+    text-align: center;
+    color: rgb(81, 127, 211);
+}
